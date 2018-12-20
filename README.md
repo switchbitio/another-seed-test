@@ -35,6 +35,6 @@ Need Help?  [Join our Slack team][slack].
 
 # Test
 
-Test 1
-Test 2
-Test 3
+1. Test 1
+2. Test 2
+3. Test 3
